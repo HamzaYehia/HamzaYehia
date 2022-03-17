@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Hamza Yehia 👋</h1>
+<h1 align="center">Hi, I'm Hamza Yehia</h1>
 <h2> Languages and Tools I use: </h2>
 C <br>
 C++ <br>
