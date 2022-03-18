@@ -5,10 +5,9 @@ C++ <br>
 Java <br>
 Python <br>
 JavaScript <br>
-HTML/CSS <br>
-JSON <br>
-XML <br>
-Git/GitHub <br>
+HTML & CSS <br>
+JSON & XML <br>
+Git & GitHub <br>
 Linux <br>
 
 <h2> Contact me: </h2>
