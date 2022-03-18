@@ -6,7 +6,7 @@ Java <br>
 Python <br>
 JavaScript <br>
 HTML/CSS <br>
-JASON <br>
+JSON <br>
 XML <br>
 Git/GitHub <br>
 Linux <br>
