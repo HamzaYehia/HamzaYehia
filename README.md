@@ -10,8 +10,6 @@ JSON & XML <br>
 Git & GitHub <br>
 Linux <br>
 </h2>
-<h2 align="center"> Contact me: </h2>
-<p align="center">
+<h2 align="center"> Contact me: <br><br>
     <a href="https://www.linkedin.com/in/hamzayehia/"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
-  </p>
-  
+    </h2>
