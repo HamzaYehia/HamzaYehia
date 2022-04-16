@@ -1,7 +1,7 @@
-Hi 👋 My name is Hamza Yehia
+I'm *Hamza Yehia*
 ============================
 
-Programmer
+A *Programmer*
 ----------
 
 *   🌍  I'm based in Cairo, Egypt.
