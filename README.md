@@ -1,7 +1,7 @@
 I'm *Hamza Yehia*
 ============================
 
-A *Programmer*
+*Junior Software Developer*
 ----------
 
 *   🌍  I'm based in Cairo, Egypt.
