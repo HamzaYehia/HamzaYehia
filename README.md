@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hamza Yehia</h1>
+<h1 align="center">I'm Hamza Yehia</h1>
 <h3 align="center">A Junior Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamzayehia&label=Profile%20views&color=0e75b6&style=flat" alt="hamzayehia" /> </p>
