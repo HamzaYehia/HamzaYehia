@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamzayehia&label=Profile%20views&color=0e75b6&style=flat" alt="hamzayehia" /> </p>
 
-- 🌱 I’m currently learning **Algorithms & Design Patterns**
+- 🌱 I’m currently learning **React, Algorithms and Design Patterns**
 
 - 📫 How to reach me **hamzayehiamakhlouf@gmail.com**
 
